@@ -15,3 +15,11 @@
 
 ### Database Management:
 - phpMyAdmin
+
+## Project Showcase
+
+| Login  | Signup | Hero Section |
+| ---| ---| ---|
+| ![login](./readme%20showcase/pictures/login.png) | ![signup](./readme%20showcase/pictures/signup.png) | ![hero](./readme%20showcase/pictures/hero-section.png) |
+| Profile | Shop| About|
+| ![profile](./readme%20showcase/pictures/profile.png) | ![shop](./readme%20showcase/pictures/shop.png) | ![about](./readme%20showcase/pictures/About.png) |
