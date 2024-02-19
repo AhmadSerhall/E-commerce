@@ -43,7 +43,24 @@
 | ---| ---|
 | ![signup](./readme%20showcase/demos/signup.gif) | ![login](./readme%20showcase/demos/login.gif) |
 | Home | Shop |
-|  ![home](./readme%20showcase/demos/Home.gif) | | ![shop](./readme%20showcase/demos/Shop.gif) | 
+|  ![home](./readme%20showcase/demos/Home.gif) |  ![shop](./readme%20showcase/demos/Shop.gif) | 
 | About | Contact|
  ![about](./readme%20showcase/demos/About.gif) | ![contact](./readme%20showcase/demos/Contact.gif)|
+| Edit Profile | Cart|
+ ![editprofile](./readme%20showcase/demos/Edit%20profile.gif) | ![cart](./readme%20showcase/demos/chart.gif)|
+| Contact message | Admin Side|
+ ![contact](./readme%20showcase/demos/message.gif) | ![admin](./readme%20showcase/demos/admin.gif)|
 
+## Installation
+> To run this project on your device you must follow these steps
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/AhmadSerhall/E-commerce
+   ```
+2. Install and start a local server environment. You can use WAMP, XAMPP, or any other server environment of your choice. Make sure all services are started. 
+3. Import the project's database into your MySQL database management tool (e.g., phpMyAdmin). You can find the database file in the project's directory under the database folder.
+4. Open your web browser and navigate to the project directory on your local server (e.g., http://localhost/E-commerce).
+5. Enjoy exploring the Mystik Marketplace project on your local machine!
+
+>By following these steps, you'll have the Mystik Marketplace project up and running on your device. If you encounter any issues during the installation process, feel free to reach out for assistance.
