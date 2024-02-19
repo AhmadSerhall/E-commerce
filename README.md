@@ -31,11 +31,19 @@
 | ![edit product](./readme%20showcase/pictures/admineditproduct.png) | ![admincategories](./readme%20showcase/pictures/admincategories.png) | ![database](./readme%20showcase/pictures/database.png) |
 
 ## Demo
-| Signup | Login |  Home |
+<!-- | Signup | Login |  Home |
 | ---| ---| ---|
 | ![signup](./readme%20showcase/demos/signup.gif) | ![login](./readme%20showcase/demos/login.gif) | ![home](./readme%20showcase/demos/Home.gif) |
 | Shop | About | Contact|
 | ![shop](./readme%20showcase/demos/Shop.gif) | ![about](./readme%20showcase/demos/About.gif) | ![contact](./readme%20showcase/demos/Contact.gif)|
 | Shop | About | Contact|
-| ![shop](./readme%20showcase/demos/Shop.gif) | ![about](./readme%20showcase/demos/About.gif) | ![contact](./readme%20showcase/demos/Contact.gif)|
+| ![shop](./readme%20showcase/demos/Shop.gif) | ![about](./readme%20showcase/demos/About.gif) | ![contact](./readme%20showcase/demos/Contact.gif)| -->
+
+| Signup | Login |
+| ---| ---|
+| ![signup](./readme%20showcase/demos/signup.gif) | ![login](./readme%20showcase/demos/login.gif) |
+| Home | Shop |
+|  ![home](./readme%20showcase/demos/Home.gif) | | ![shop](./readme%20showcase/demos/Shop.gif) | 
+| About | Contact|
+ ![about](./readme%20showcase/demos/About.gif) | ![contact](./readme%20showcase/demos/Contact.gif)|
 
